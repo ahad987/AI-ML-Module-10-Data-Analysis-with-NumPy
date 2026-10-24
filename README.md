@@ -271,10 +271,8 @@ data-analysis-with-numpy/
 
 Computer Programmer | Python Developer | Data Analysis Learner
 
-GitHub: [YOUR_GITHUB_PROFILE](https://github.com/YOUR_USERNAME)
+GitHub: [Abdul Ahad Chowdhury](https://github.com/ahad987)
 
 ## License
 
 This repository is intended for learning, practice, and educational purposes.
-
-If you want others to reuse or distribute your code under specific terms, consider adding an appropriate open-source license, such as the MIT License.
