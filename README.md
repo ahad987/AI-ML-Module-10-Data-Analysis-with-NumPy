@@ -256,8 +256,6 @@ data-analysis-with-numpy/
 **Note:** This is a suggested structure. Update the filenames in this section to match your actual repository files.
 
 ## Author
-
-* * *
 **Abdul Ahad Chowdhury**
 - GitHub: [@ahad987](https://github.com/ahad987)
 - Email: [ahad987@gmail.com](mailto:ahad987@gmail.com)
